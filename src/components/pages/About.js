@@ -5,12 +5,8 @@ function About() {
   return (
     <>
       <div>
-        <h1>
-            About Me
-        </h1>
-        <p>
-            Hi. This is the About section where I will be going over cool things about myself. I hope you enjoy. Thanks!
-        </p>
+        <h1>About Me</h1>
+        <p>Hi. This is the About section where I will be going over cool things about myself. I hope you enjoy. Thanks!</p>
       </div>
     </>
   );
