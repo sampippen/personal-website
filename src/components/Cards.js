@@ -2,8 +2,10 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 
-//component for displaying clickable cards with images and tags
-//cards use background images, labels with text on them, and links to other pages
+// TODO: make images fit card better
+
+// Component for displaying clickable cards with images and tags cards
+// use background images, labels with text on them, and links to other pages
 class Cards extends React.Component {
   render() {
     return (
@@ -16,13 +18,25 @@ class Cards extends React.Component {
               src='images/LPL-logo.jpeg'
               text='Longhorn Powerlifting'
               label='Sports'
-              path='/'
+              path='/sports'
             />
             <CardItem
-              src='images/Resume.png'
-              text='Resume'
+              src='images/Visa-Logo.jpg'
+              text='Work'
               label='Professional'
-              path='/'
+              path='/professional'
+            />
+            <CardItem
+              src='images/UT-Austin-Seal.png'
+              text='Academics'
+              label='Education'
+              path='/education'
+            />
+            <CardItem
+              src='images/code.jpg'
+              text='Personal Projects'
+              label='Projects'
+              path='/projects'
             />
           </ul>
         </div>
