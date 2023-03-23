@@ -34,7 +34,7 @@ class Cards extends React.Component {
               />
               <CardItem
                 src='images/code.jpg'
-                text='Personal Projects'
+                text='Personal & Academic Projects'
                 label='Projects'
                 path='/projects'
               />

@@ -10,10 +10,11 @@ function Professional() {
         <h3>Hi. This is the Professional section where I will be going over how I love work.</h3>
 
         <h2>Eden Garden Services</h2>
-        <h3>Pools</h3>
-        <h4>Training employees, working alone, working on a team, scheduling, management, costs, business decisions, etc.</h4>
-        <h3>Lawns</h3>
-        <h4>Mowing lawns, trimming, fixing up yards, etc.</h4>
+        <h3>Pool Maintenance and Repair Man</h3>
+        <h4>Pools</h4>
+        <h5>Training employees, working alone, working on a team, scheduling, management, costs, business decisions, etc.</h5>
+        <h4>Lawns</h4>
+        <h5>Mowing lawns, trimming, fixing up yards, etc.</h5>
 
         <h2>Rapid Expeditionary Concepts</h2>
         <h3>Software Engineering Intern</h3>
