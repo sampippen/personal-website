@@ -16,7 +16,7 @@ class Cards extends React.Component {
           <ul className='cards__items'>
             <CardItem
               src='images/LPL-logo.jpeg'
-              text='Longhorn Powerlifting'
+              text='Multisport Athlete'
               label='Sports'
               path='/sports'
             />
